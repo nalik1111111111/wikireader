@@ -1,4 +1,5 @@
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:wiki_reader/summary_hive_box.dart';
 
 const String articleHiveBox = 'articleHiveBox';
 
